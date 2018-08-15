@@ -1,5 +1,5 @@
 def display_board
-  row = [" ", "|", " ", "|", " "]
+  row = "   |   |   "
   line = "-----------"
   puts row
   puts line
